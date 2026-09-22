@@ -1,0 +1,17 @@
+# sqlite runtime files
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# node / frontend
+node_modules/
+dist/
+build/
+*.local
